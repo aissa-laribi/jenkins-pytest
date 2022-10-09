@@ -4,9 +4,12 @@ This image is based on Ubuntu and is designed to run tests using the pytest fram
 
 ### Dependencies
 
-Dependencies added over the original Ubuntu:latest image:
+Dependencies added over the original Ubuntu:latest image
+
 -Python 3 latest version
+
 -Git
+
 -pip
 
 ## Usage example
