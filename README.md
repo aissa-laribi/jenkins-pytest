@@ -9,7 +9,7 @@ Dependencies added over the original Ubuntu:latest image:
 -Git
 -pip
 
-##Usage example
+## Usage example
 
 ```
 pipeline {
