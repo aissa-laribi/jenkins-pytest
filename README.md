@@ -1,16 +1,18 @@
 # Jenkins-pytest image
 
-This image is based on Ubuntu and is designed to run tests using the pytest framework in a Jenkins pipeline. As result, the size of the image does not not matter otherwise Alpine would have been choosen
+This image is based on Ubuntu and is designed to run tests using the Pytest framework in a Jenkins pipeline. As result, the size of the image does not matter otherwise Alpine would have been chosen
 
 ### Dependencies
 
-Dependencies added over the original Ubuntu:latest image
+Dependencies added over the original Ubuntu:latest image as described in build-image.sh file.
 
--Python 3 latest version
+- Python 3 latest version
 
--Git
+- Git
 
--pip
+- Pip
+
+- Pytest
 
 ## Usage example
 
